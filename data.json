@@ -1,0 +1,42 @@
+[
+    {
+        "name": "shubham",
+        "age": 23,
+        "email": "shubham@gmail.com",
+        "pin": 1234,
+        "accountNo": 1234,
+        "balance": 0
+    },
+    {
+        "name": "shubham",
+        "age": 23,
+        "email": "shubham@gmail.com",
+        "pin": 1234,
+        "accountNo": 1234,
+        "balance": 0
+    },
+    {
+        "name": "pookie",
+        "age": 24,
+        "email": "pookie@gmail.com",
+        "pin": "2411",
+        "accountNo": "rd06Z$1",
+        "balance": 9200
+    },
+    {
+        "name": "shubham",
+        "age": 23,
+        "email": "shubham@gmail.com",
+        "pin": 2411,
+        "accountNo": "JH5@J23",
+        "balance": 9999
+    },
+    {
+        "name": "gouri saini",
+        "age": 23,
+        "email": "gourisaini241@gmail.com",
+        "pin": 2411,
+        "accountNo": "3m9#A6T",
+        "balance": 5000
+    }
+]
