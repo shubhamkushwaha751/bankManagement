@@ -76,6 +76,7 @@ elif choice == "Update Details":
             st.write(res)
         else:
             st.error("❌ No account found")
+            
 
 elif choice == "Delete Account":
     st.header("Delete Accountsd")
