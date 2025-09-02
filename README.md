@@ -20,4 +20,3 @@ It provides an easy-to-use web interface for performing basic banking operations
 
 ##  RUN
 -  streamlit run app.py
-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
