@@ -67,20 +67,11 @@ elif choice == "Update Details":
     acc = st.text_input("Account No")
     pin = st.text_input("PIN", type="password")
     newname = st.text_input("New Name")
-    newemail = st.text_input("New Email")
-    newpin = st.text_input("New PIN")
-    if st.button("Update"):
-        res = user.updatedetail(acc, int(pin), newname or None, newemail or None, int(newpin) if newpin else None)
-        if res:
-            st.success("✅ Details updated successfully")
-            st.write(res)
-        else:
-            st.error("❌ No account found")
+    # newemailwedrfg
             
 
 elif choice == "Delete Account":
-    st.header("Delete Accountsd")
-    
+    st.header("Delete Account")
     acc = st.text_input("Account No")
     pin = st.text_input("PIN", type="password")
     if st.button("Delete"):
