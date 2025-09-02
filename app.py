@@ -36,6 +36,7 @@ elif choice == "Deposit":
             st.write(res)
         else:
             st.error("❌ Invalid account or amount")
+            
 
 elif choice == "Withdraw":
     st.header("Withdraw Money")
