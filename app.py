@@ -78,7 +78,8 @@ elif choice == "Update Details":
             st.error("❌ No account found")
 
 elif choice == "Delete Account":
-    st.header("Delete Account")
+    st.header("Delete Accountsd")
+    
     acc = st.text_input("Account No")
     pin = st.text_input("PIN", type="password")
     if st.button("Delete"):
